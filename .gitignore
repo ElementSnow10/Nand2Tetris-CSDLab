@@ -1,0 +1,18 @@
+# Compiled C++ Binaries
+*.exe
+a.out
+*.o
+*.obj
+*.out
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temp/Cache
+*.tmp
+*.log
+*.zip
+*.rar
