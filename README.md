@@ -2,7 +2,7 @@
 
 Welcome to the **Nand2Tetris / Computer System Design Laboratory** repository. This repository contains a complete, bottom-up implementation of a modern computer system, following the official MIT/Nand2Tetris curriculum. Starting from a single primitive `NAND` logic gate, we systematically construct a 16-bit hardware platform (the Hack computer), write an assembler, design a stack-based virtual machine translator, implement a compiler for the high-level Jack programming language, and run interactive applications.
 
-## 📂 Repository Structure
+## Repository Structure
 
 The project is organized into modular directories reflecting the stages of computer system design:
 
